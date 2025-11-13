@@ -1,0 +1,2 @@
+# SpeakAI
+AI for speaking
